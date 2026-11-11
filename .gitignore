@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/
+.agentic/cache/
+.agentic/tools/node_modules/
+.agentic/sources/
+.agentic/staging/
+*.log
